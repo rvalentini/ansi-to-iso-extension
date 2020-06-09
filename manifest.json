@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "ansi-to-iso",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.typing-lessons.org/*"],
+      "js": ["ansi-to-iso.js"]
+    }
+  ]
+}
