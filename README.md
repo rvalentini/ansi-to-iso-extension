@@ -47,5 +47,10 @@ into a `.zip` file, which you can then upload to the Firefox Develop Hub to have
 zip -r -FS ansi-to-iso.zip * --exclude '*.git*' '.idea' 
 ```
 
+## License
+
+Distributed under the [MIT license](https://opensource.org/licenses/MIT) 
+
+Copyright © 2020 Riccardo Valentini
 
 
